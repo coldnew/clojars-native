@@ -4,7 +4,7 @@
   <groupId>org.clojars.coldnew</groupId>
   <artifactId>opencv</artifactId>
   <version>3.0.0-SNAPSHOT</version>
-  <name>OpenCV</name>
+  <name>opencv</name>
   <url>http://opencv.org/</url>
   <description>OpenCV Java Wrapper</description>
   <scm>

@@ -4,7 +4,7 @@
   <groupId>org.clojars.coldnew</groupId>
   <artifactId>opencv-native-macosx-x86_64</artifactId>
   <version>3.0.0-SNAPSHOT</version>
-  <name>OpenCV</name>
+  <name>opencv-native</name>
   <url>http://opencv.org/</url>
   <description>OpenCV native libraries for Mac OSX x86_64</description>
   <scm>
